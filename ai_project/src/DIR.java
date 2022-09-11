@@ -1,0 +1,3 @@
+public enum DIR {
+    UP,DOWN,RIGHT,LEFT,NONE,UR,UL,DR,DL,RU,RD,LU,LD,RR,LL,UU,DD
+}
